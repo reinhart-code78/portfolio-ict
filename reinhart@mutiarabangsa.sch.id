@@ -1,0 +1,76 @@
+{
+  "isAdmin": true,
+  "isDarkMode": false,
+  "profile": {
+    "name": "Reinhart Jeep",
+    "role": "UI/UX & Mobile Developer",
+    "bio": "Merancang antarmuka seluler yang simpel, indah, dan fungsional dengan pendekatan mobile-first.",
+    "about": "Halo! Saya Reinhart. Saya berdedikasi menciptakan pengalaman digital yang responsif di perangkat genggam. Fokus utama saya adalah performa cepat, estetika warna pastel yang tenang, dan navigasi ramah pengguna.",
+    "email": "reinhart.jeep@example.com",
+    "stats": {
+      "years": "3+",
+      "projects": "24+",
+      "focus": "100%"
+    }
+  },
+  "skills": [
+    "Mobile UI Design",
+    "Frontend HTML/CSS",
+    "Prototyping",
+    "Design System",
+    "Responsive Web"
+  ],
+  "hobbies": [
+    {
+      "id": "h1",
+      "title": "Nonton",
+      "sub": "Film & Serial",
+      "icon": "movie",
+      "url": "https://netflix.com"
+    },
+    {
+      "id": "h2",
+      "title": "Main",
+      "sub": "Game & Fun",
+      "icon": "game",
+      "url": "https://store.steampowered.com"
+    },
+    {
+      "id": "h3",
+      "title": "Nongkrong",
+      "sub": "Ngopi & Chill",
+      "icon": "coffee",
+      "url": "https://maps.google.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Calm Wallet App",
+      "desc": "Aplikasi pencatatan keuangan pribadi dengan antarmuka menenangkan dan mudah digunakan.",
+      "badgeText": "Aplikasi Finansial Pastel",
+      "tags": [
+        "UI/UX",
+        "Mobile First"
+      ],
+      "url": "https://github.com"
+    },
+    {
+      "id": "p2",
+      "title": "Pastel Brews Store",
+      "desc": "Landing page toko kopi lokal yang dioptimalkan untuk akses cepat lewat smartphone.",
+      "badgeText": "E-Commerce Kopi",
+      "tags": [
+        "Web Design",
+        "Tailwind"
+      ],
+      "url": "https://github.com"
+    }
+  ],
+  "socials": {
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com",
+    "instagram": "https://instagram.com",
+    "dribbble": "https://dribbble.com"
+  }
+}
